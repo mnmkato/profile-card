@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./mnmkato.github.io_profile-card_.png)
+![](./mnmkato.github.io_profile-card_(1).png)
 
 ### Links
 
